@@ -1,6 +1,6 @@
 # GDG Week 3 – Python OOP Practice Tasks
 
-This folder contains all Python practice tasks for **Week 3** of the GDG Django course, focusing on **Object-Oriented Programming (OOP)**.
+This folder contains Python practice tasks for **Week 3** of the GDG Django course, focusing on **Object-Oriented Programming (OOP)**.
 
 ## Review Questions
 

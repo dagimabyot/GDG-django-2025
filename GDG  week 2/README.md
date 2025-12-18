@@ -8,7 +8,7 @@ This folder contains Python practice questions for Week 2 of the GDG Django cour
 2. Expensive Products - Write a function get_expensive_products(prices) that returns prices 
 3. User Activity Log - Log "User logged in" to log.txt, then print the file. 
 4. Student Grade System - get_grade(dict, name) with exception handling. 
-5/6. Sales File - Read sales.txt, ignore invalid lines, sum valid numbers. 
+5&6. Sales File - Read sales.txt, ignore invalid lines, sum valid numbers. 
 7. FizzBuzz - Return list with Fizz/Buzz rules up to n. 
 8. Move Zeroes - Move all zeros to the end of a list in-place. 
 9. Two Sum - Return indices of two numbers that add up to target. 

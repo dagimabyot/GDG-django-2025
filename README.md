@@ -1,1 +1,1 @@
-GDG week 2 exercises 
+# GDG Django Course 2025

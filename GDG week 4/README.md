@@ -1,4 +1,4 @@
-"# Week 4 - Python OOP and JSON" 
+
 # Week 4 - Python OOP and JSON
 
 This folder contains Python exercises and examples for **Week 4**, focusing on:

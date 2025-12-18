@@ -1,7 +1,7 @@
 
 # Week 4 - Python OOP and JSON
 
-This folder contains Python exercises and examples for **Week 4**, focusing on:
+This folder contains Python exercises for **Week 4**, focusing on:
 
 - **Abstraction** (abstract classes and methods)  
 - **Polymorphism** (method and class polymorphism)  
